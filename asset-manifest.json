@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Shinsekami/static/css/main.9f98ad5b.css",
-    "main.js": "/Shinsekami/static/js/main.711a069c.js",
-    "static/js/453.b61b0e6b.chunk.js": "/Shinsekami/static/js/453.b61b0e6b.chunk.js",
-    "index.html": "/Shinsekami/index.html",
-    "main.9f98ad5b.css.map": "/Shinsekami/static/css/main.9f98ad5b.css.map",
-    "main.711a069c.js.map": "/Shinsekami/static/js/main.711a069c.js.map",
-    "453.b61b0e6b.chunk.js.map": "/Shinsekami/static/js/453.b61b0e6b.chunk.js.map"
+    "main.css": "/anastaxercise/static/css/main.9f98ad5b.css",
+    "main.js": "/anastaxercise/static/js/main.2c63cf0d.js",
+    "static/js/453.b61b0e6b.chunk.js": "/anastaxercise/static/js/453.b61b0e6b.chunk.js",
+    "index.html": "/anastaxercise/index.html",
+    "main.9f98ad5b.css.map": "/anastaxercise/static/css/main.9f98ad5b.css.map",
+    "main.2c63cf0d.js.map": "/anastaxercise/static/js/main.2c63cf0d.js.map",
+    "453.b61b0e6b.chunk.js.map": "/anastaxercise/static/js/453.b61b0e6b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9f98ad5b.css",
-    "static/js/main.711a069c.js"
+    "static/js/main.2c63cf0d.js"
   ]
 }
