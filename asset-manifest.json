@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shinsekami/anastaxercise/static/css/main.9f98ad5b.css",
+    "main.js": "/Shinsekami/anastaxercise/static/js/main.df0bd3ad.js",
+    "static/js/453.b61b0e6b.chunk.js": "/Shinsekami/anastaxercise/static/js/453.b61b0e6b.chunk.js",
+    "index.html": "/Shinsekami/anastaxercise/index.html",
+    "main.9f98ad5b.css.map": "/Shinsekami/anastaxercise/static/css/main.9f98ad5b.css.map",
+    "main.df0bd3ad.js.map": "/Shinsekami/anastaxercise/static/js/main.df0bd3ad.js.map",
+    "453.b61b0e6b.chunk.js.map": "/Shinsekami/anastaxercise/static/js/453.b61b0e6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f98ad5b.css",
+    "static/js/main.df0bd3ad.js"
+  ]
+}
